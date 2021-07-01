@@ -1292,31 +1292,7 @@ int main() {
 
     loadData();
     system("cls");
-    //printf(CSI "47m"); // white color for background
-    //printf(CSI "30m"); // black color for string
     loginMenu();
-    //operatorMenu();
-    //entranceTicketMenu();
-    //exitTicketMenu();
-    //carNewTicket();
-    //printf("%s\n", root->enter_time);
-    //printf("| %-9s | %-13s | %-10s | %-24s | %-24s |\n", root->ticketID, root->lisence, "Car", root->enter_time, root->exit_time);
-
-    //motorNewTicket();
-    //dataParking();
-    //displayTime();
-    //printHistory(root, 5);
-    //getch();
-
-    //char t[] = "Sat Jun 11 20:45:30 2021";
-    //char s[] = "Sat Jun 09 17:04:30 2021";
-    //billTicket(t, "A", "CT0000", s);
-    //payment(2000, "CT0000", t);
-
-    //showDataParkingMenu(1);
-    //parkedVehicleData();
-    //parkingHistoryData();
-    //getch();
 
     return 0;
 }
