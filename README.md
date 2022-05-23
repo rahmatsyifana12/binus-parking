@@ -4,4 +4,4 @@
 - Input LISENCE PLATE without space
 
 ### WARNING
-**Can only be run at windows OS.**
+**Can only be run in windows OS.**
